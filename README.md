@@ -4,22 +4,25 @@ Game Programmer
 1. Tech Stack
 - Unity
 - C#
-- Git / GitHub
+- Git / GitHub / SorceTree
+- AR
 
 ## 💻 Projects
-- BonfireSimulator (2026) - 유니티 / 시뮬레이션 / 모닥불 시뮬레이터
-- 프로젝트 B - 설명 한 줄
-- 프로젝트 C - 설명 한 줄
+- BonfireSimulator (2026) - 유니티 1인개발 / 시뮬레이션 / PC / 모닥불 시뮬레이터
+- 망량 : Detectors (2025) - 유니티 전투파트 개발 / 덱빌딩 로그라이트 / AOS / 한국형 어반 판타지
+- Duwing (2025) - 유니티 후속개발 / 교육 / AOS, iOS / 메타버스 플랫폼
+- 점심런 (2023) - 유니티 1인개발 / 3D 미니게임 / 미출시 / 러닝 시뮬레이션
+- 매직 포레스트 어드벤쳐 (2024) - 유니티 콘텐츠 개발 / 프로모션 / AOS, iOS / 롯데월드 협업 프로젝트
+- 봉구야 말해줘 (2022) - 유니티 1인개발 / AR 시뮬레이션 / AOS, iOS / EBS 협업 프로젝트
+- Rapidfire (2019) - 유니티 1인개발 / 방치형 디펜스 / AOS / 총기 수집 모바일 게임
+- 도네타격게임 (2019) - 유니티 1인개발 / 클리커 / 미출시 / 스트리머 게임 개발 참여
 
 ## Experience
-- 어떤 프로젝트를 했는지
-- 어떤 역할을 맡았는지
+- 클라이언트 프로그래머 (5년) 2021 ~ 2026
+- 게임 운영자 (5년) 2013 ~ 2018
 
 ## Contact
-- Email: your@email.com
-- Blog: 링크
-- Portfolio: 링크
+- Email: wpg123@naver.com
 
-## Currently
-- 현재 공부 중인 것
-- 만들고 있는 것
+## 🎓 학력
+- 청강문화산업대학 e스포츠게임 전공 [졸업] - 2009 ~ 2012
