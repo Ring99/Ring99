@@ -1,14 +1,13 @@
 Game Programmer
 서정완
 
-## Tech Stack
+1. Tech Stack
 - Unity
 - C#
 - Git / GitHub
 
 ## 💻 Projects
-
-- 프로젝트 A - 설명 한 줄
+- BonfireSimulator (2026) - 유니티 / 시뮬레이션 / 모닥불 시뮬레이터
 - 프로젝트 B - 설명 한 줄
 - 프로젝트 C - 설명 한 줄
 
