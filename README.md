@@ -1,14 +1,14 @@
 ## Game Programmer
-서정완
+서정완 (1991)
 
 ## ⚙ Tech Stack
 - Unity
 - C#
 - Git / GitHub / SorceTree
-- AR
+- AR Foundation / 
 
 ## 💻 Projects
-- BonfireSimulator (2026) - 유니티 1인개발 / 시뮬레이션 / PC / 모닥불 시뮬레이터
+- BonfireSimulator (2026) - 유니티 1인개발 / 시뮬레이션 / PC Steam / 모닥불 시뮬레이터
 - 망량 : Detectors (2025) - 유니티 전투파트 개발 / 덱빌딩 로그라이트 / AOS / 한국형 어반 판타지
 - Duwing (2025) - 유니티 후속개발 / 교육 / AOS, iOS / 메타버스 플랫폼
 - 점심런 (2023) - 유니티 1인개발 / 3D 미니게임 / 미출시 / 러닝 시뮬레이션
@@ -21,8 +21,15 @@
 - 클라이언트 프로그래머 (5년) 2021 ~ 2026
 - 게임 운영자 (5년) 2013 ~ 2018
 
-## ✉ Contact
-- Email: wpg123@naver.com
+## 📚 Tutorial
+- 서울게임아카데미 - 게임 클라이언트 프로그래밍(UX/UI) - 2018 ~ 2019
 
 ## 🎓 학력
 - 청강문화산업대학 e스포츠게임 전공 [졸업] - 2009 ~ 2012
+
+## ✉ Contact
+- Email: wpg123@naver.com
+
+## 📃 자격증
+- 정보기기운용기능사 - 2008
+- 컴퓨터그래픽스운용기능사 - 2007
