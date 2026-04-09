@@ -1,5 +1,5 @@
 ## Game Programmer
-## 서정완
+서정완
 
 ## ⚙ Tech Stack
 - Unity
