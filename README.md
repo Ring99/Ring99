@@ -2,10 +2,10 @@
 서정완 (1991)
 
 ## ⚙ Tech Stack
-- Unity
+- Unity 2D, 3D
 - C#
 - Git / GitHub / SorceTree
-- AR Foundation / 
+- AR Foundation
 
 ## 💻 Projects
 - [BonfireSimulator (2026)](https://github.com/Ring99/BonfireSimulator) - 유니티 1인개발 / 시뮬레이션 / PC Steam / 모닥불 시뮬레이터
@@ -14,8 +14,8 @@
 - 점심런 (2023) - 유니티 1인개발 / 3D 미니게임 / 미출시 / 러닝 시뮬레이션
 - 매직 포레스트 어드벤쳐 (2024) - 유니티 콘텐츠 개발 / 프로모션 / AOS, iOS / 롯데월드 협업 프로젝트
 - 봉구야 말해줘 (2022) - 유니티 1인개발 / AR 시뮬레이션 / AOS, iOS / EBS 협업 프로젝트
-- Rapidfire (2019) - 유니티 1인개발 / 방치형 디펜스 / AOS / 총기 수집 모바일 게임
-- 도네타격게임 (2019) - 유니티 1인개발 / 클리커 / 미출시 / 스트리머 게임 개발 참여
+- Rapidfire (2019) - 유니티 1인개발 / 2D 방치형 디펜스 / AOS / 총기 수집 모바일 게임
+- 도네타격게임 (2019) - 유니티 1인개발 / 2D 클리커 / 미출시 / 스트리머 게임 개발 참여
 
 ## 💡 Experience
 - 클라이언트 프로그래머 (5년) 2021 ~ 2026
